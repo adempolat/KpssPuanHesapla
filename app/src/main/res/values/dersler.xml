@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ders_list">
+        <item>Türkçe</item>
+        <item>Matematik (İlköğretim)</item>
+        <item>Fen Bilimleri ve Teknoloji</item>
+        <item>Sosyal Bilimler</item>
+        <item>Türk Dili ve Edebiyatı</item>
+        <item>Tarih</item>
+        <item>Coğrafya</item>
+        <item>Matematik (Lise)</item>
+        <item>Fizik</item>
+        <item>Kimya</item>
+        <item>Biyoloji</item>
+        <item>Din Kültürü ve Ahlak Bilgisi</item>
+        <item>Yabancı Dil (İngilizce)</item>
+        <item>Rehber Öğretmen</item>
+        <item>Sınıf Öğretmenliği</item>
+        <item>Okul Öncesi Öğretmenliği</item>
+    </string-array>
+
+</resources>
